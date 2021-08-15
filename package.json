@@ -2,6 +2,7 @@
   "dependencies": {
     "iconv": "^3.0.0",
     "iconv-lite": "^0.6.3",
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "mongoose": "^5.13.5"
   }
 }
